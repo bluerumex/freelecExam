@@ -27,6 +27,7 @@ public class LogInServlet extends HttpServlet {
         "/auth/LogInForm.jsp");
     rd.forward(request, response);
     
+    
   }
 
   @Override
